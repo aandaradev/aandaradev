@@ -1,4 +1,13 @@
-## Hi there 👋
+# Anyer Andara | Senior Software Architect 🚀
+
+Especialista en el ecosistema PHP con +12 años diseñando sistemas escalables y de alta disponibilidad.
+
+### 🏗️ Mi Enfoque Técnico
+- **Arquitectura:** Hexagonal, DDD (simplificado) y Clean Architecture.
+- **Estandarización:** Implementación avanzada de Laravel 13 (Actions, DTOs, Service Layer).
+- **Calidad:** Código desacoplado, testeable y libre de "bombas de tiempo" legacy.
+
+> **Nota sobre NDAs:** Debido a acuerdos de confidencialidad con empresas de Fintech y APIs críticas, no puedo mostrar el código fuente de mis proyectos más recientes. En este perfil encontrarás laboratorios técnicos que demuestran mi metodología y estándares actuales.
 
 <!--
 **aandaradev/aandaradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
