@@ -1,6 +1,8 @@
-# Anyer Andara | Senior Software Architect 🚀
+# Anyer Andara | Senior Full-Stack PHP Developer 🚀
 
-Especialista en el ecosistema PHP con +12 años diseñando sistemas escalables y de alta disponibilidad.
+Especialista en el ecosistema PHP con +12 años construyendo sistemas escalables, integrando pasarelas de pago (PayPal, MercadoPago, Webpay) e implementando IA Generativa (Google Gemini API) para automatización de procesos.
+
+**Stack Principal:** PHP, Laravel, CodeIgniter, WordPress, Vue.js, React, Angular, MySQL, PostgreSQL.
 
 ### 🏗️ Mi Enfoque Técnico
 - **Arquitectura:** Hexagonal, DDD (simplificado) y Clean Architecture.
